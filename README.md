@@ -1,3 +1,19 @@
+# Práctica 4 - Desarrollo Web II
+
+## Planificador de Gastos
+
+Aplicación web para gestionar presupuestos y controlar gastos personales. Permite definir un presupuesto inicial, registrar gastos por categorías, editarlos, eliminarlos y filtrarlos. Los datos se persisten en localStorage para mantener la información entre sesiones.
+
+### Tecnologías Utilizadas
+
+- **React 18** - Biblioteca para construir interfaces de usuario
+- **Vite** - Herramienta de desarrollo rápida
+- **Tailwind CSS** - Framework de estilos
+- **Context API + useReducer** - Gestión de estado global
+- **LocalStorage** - Persistencia de datos
+
+---
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
